@@ -1,0 +1,24 @@
+ID;Ziffer;Hauptueberschrift;Kategorie;Konto;Bezeichnung
+10;I.;Umsatzerloese;Ertraege;8400;Erloese aus Verkaeufen
+11;I.;Umsatzerloese;Ertraege;8410;Erloese aus Dienstleistungen
+12;I.;Umsatzerloese;Ertraegsschmaelerung;8730;Gewaehrte Skonti
+20;II.;Materialaufwand;Wareneinsatz;3400;Wareneingang (Aufwand)
+21;II.;Materialaufwand;Fremdleistung;3100;Fremdleistungen
+30;III.;Personalaufwand;Gehaelter;4120;Gehaelter
+31;III.;Personalaufwand;Lohnnebenkosten;4130;Gesetzliche soziale Aufwendungen
+32;III.;Personalaufwand;Gehaelter;4190;Aushilfsloehne
+40;IV.;Sonstige betriebliche Aufwendungen;Raumkosten;4210;Miete
+41;IV.;Sonstige betriebliche Aufwendungen;Raumkosten;4260;Instandhaltung
+42;IV.;Sonstige betriebliche Aufwendungen;Versicherungen;4360;Versicherungen
+43;IV.;Sonstige betriebliche Aufwendungen;Kfz-Kosten;4530;Kfz-Kosten
+44;IV.;Sonstige betriebliche Aufwendungen;Marketing;4600;Werbekosten
+45;IV.;Sonstige betriebliche Aufwendungen;Marketing;4800;Repraesentationskosten
+46;IV.;Sonstige betriebliche Aufwendungen;Verwaltung;4910;Porto
+47;IV.;Sonstige betriebliche Aufwendungen;Verwaltung;4920;Telefon und Internet
+48;IV.;Sonstige betriebliche Aufwendungen;Verwaltung;4930;Bueromaterial
+49;IV.;Sonstige betriebliche Aufwendungen;Verwaltung;4950;Rechts- und Beratungskosten
+50;V.;Abschreibungen;Sachanlagen;4822;Abschreibungen auf Sachanlagen
+60;VI.;Finanzergebnis;Zinsertrag;2110;Zinsertraege
+61;VI.;Finanzergebnis;Zinsaufwand;2120;Zinsaufwendungen
+70;VII.;Steuern;Ertragsteuern;2200;Koerperschaftsteuer
+71;VII.;Steuern;Ertragsteuern;2208;Gewerbesteuer
